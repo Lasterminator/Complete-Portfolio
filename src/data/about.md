@@ -1,4 +1,14 @@
 
 # Intro
 
-- To be Done
+Greetings! I'm Trinath Sai Subhash Reddy Pittala (You can refer to as Subhash), a dedicated computer scientist and software developer with a passion for solving complex challenges in the digital realm. My journey in the world of technology has been shaped by a robust academic foundation and diverse hands-on experiences.
+
+I'm currently pursuing my Master's in Computer Science at Clemson University, where I'm delving deep into advanced concepts. Previously, I earned a Bachelor's in Computer Science and Engineering from Birla Institute of Technology and Science, Pilani, India. This solid academic background has equipped me with a comprehensive understanding of computer science, spanning from Data Structures and Algorithms to Cryptography.
+
+Skills are my toolkit for innovation. Proficient in languages such as C#, VB.net, Java, Python, SQL, JavaScript, and C++, I possess a versatile skill set. My expertise extends to technologies like .NET Framework, R, AWS, and Git. I'm a full-stack developer who enjoys creating solutions that seamlessly bridge the front-end and back-end worlds. My proficiency in database systems and software development methodologies further enhances my ability to tackle intricate projects.
+
+Professional Experience has allowed me to apply my knowledge in real-world scenarios. In my role as a Manager - Software Developer at RBL Bank, Mumbai, India, I led the development of a scalable IMPS Recon portal and Scheduler, handling millions of transactions daily. Additionally, I implemented the UPI UDIR API to streamline complaint handling for UPI transactions. My stint at Glocol Networks Inc, Sacramento, California, as a Software Developer Intern, involved creating web dashboards for train occupancy analysis and real-time location tracking, contributing to improved services.
+
+My Projects reflect my enthusiasm for problem-solving. In one notable project, I conducted extensive research on "Airbnb Price Determinants in Europe." Leveraging data analysis techniques like linear and polynomial regression, as well as random forest models, I identified key factors influencing room prices. This project not only sharpened my analytical skills but also offered valuable insights for Airbnb hosts and guests.
+
+I'm not just a computer scientist; I'm an enthusiast who continually seeks to innovate and create. I invite you to connect with me on LinkedIn and explore my projects on GitHub. You can always reach out to me at subhash8111999@gmail.com or connect via phone at +1 (864) 623-8616 (US) or +91 9704221970 (India). Let's collaborate on groundbreaking projects and shape the future of technology together!

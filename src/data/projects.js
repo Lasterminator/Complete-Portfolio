@@ -11,6 +11,15 @@ const data = [
       + 'Utilized linear regression, polynomial regression, and random forest models to analyze the data and determine the main factors influencing room prices. '
       + 'Identified key determinants of Airbnb prices based on coefficient values, providing valuable insights for hosts and guests in understanding pricing dynamics.',
   },
+  {
+    title: 'Personal Portfolio',
+    subtitle: 'Web Development',
+    link: 'https://glowing-donut-151946.netlify.app',
+    image: '/images/projects/a.png',
+    date: '2023-05-01',
+    desc:
+      'Designed and implemented a Node.js-based personal website to display my portfolio, emphasizing my technical abilities and creativity.',
+  },
 ];
 
 export default data;

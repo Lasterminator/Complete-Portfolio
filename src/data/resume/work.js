@@ -19,11 +19,10 @@ const work = [
     startDate: '2021-07-01',
     endDate: '2022-12-15',
     highlights: [
-      'Developed a scaleable IMPS Recon portal and Scheduler for handling of large number of (around ten million) timeout and return case transactions everyday.',
-      'Implemented UPI UDIR API for Enhancing Complaint handling and resolution process for UPI transactions as per requirement and guidelines of RBI.',
-      'API Testing of UPI application in various UAT scenarios based on consumer feedback.',
-      'Development of Partner On-boarding Site (Cashpoint Portal) and API development of various Finacle applications.'
-    ],
+      'Engineered a scalable IMPS Recon portal and Scheduler capable of processing approximately 10 million timeout and return transactions daily.',
+      'Executed the integration of UPI UDIR API to improve the complaint management and resolution workflow for UPI transactions, adhering to the Reserve Bank of India\'s standards',
+      'Conducted thorough API testing for the UPI application across multiple User Acceptance Testing (UAT) scenarios, incorporating consumer insights for optimization.',
+      'Spearheaded the creation of a Partner Onboarding Site (Cashpoint Portal) and developed APIs for a suite of Finacle banking applications, enhancing partner integration.'],
   },
   {
     name: 'Glocol Networks',
@@ -32,8 +31,8 @@ const work = [
     startDate: '2020-07-01',
     endDate: '2021-01-10',
     highlights: [
-      'Developed web dashboard application for analysis on number of people on train, their connectivity to People Sense Network on the train.',
-      'A Dashboard was developed for the client company for real time locations of trains.'
+      'Designed and implemented a web dashboard application for analyzing passenger counts on trains and their connection to the onboard People Sense Network.',
+      'Developed a real-time train location tracking dashboard for the client company, facilitating enhanced operational oversight and customer service.'
     ],
   },
 ];

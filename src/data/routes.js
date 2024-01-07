@@ -1,11 +1,11 @@
 const routes = [
   {
     index: true,
-    label: "Trinath Sai Subhash Reddy Pittala",
+    label: "Source",
     path: '/',
   },
   {
-    label: 'About',
+    label: 'About Me',
     path: '/about',
   },
   {

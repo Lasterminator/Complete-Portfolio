@@ -5,13 +5,23 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'React',
+    competency: 5,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
+    title: 'Angular',
+    competency: 5,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
     title: 'Node.JS',
     competency: 5,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'React',
-    competency: 2,
+    competency: 5,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -25,18 +35,23 @@ const skills = [
     category: ['Web Development', '.Net Framework'],
   },
   {
+    title: 'Go',
+    competency: 4,
+    category: ['Tools', 'Languages'],
+  },
+  {
     title: 'Bash',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
-    competency: 3,
+    competency: 5,
     category: ['Web Development', 'Tools'],
   },
   {
     title: 'Heroku',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -46,27 +61,27 @@ const skills = [
   },
   {
     title: 'Data Mining',
-    competency: 3,
+    competency: 4,
     category: ['ML Engineering'],
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 3,
+    competency: 4,
     category: ['ML Engineering', 'Python'],
   },
   {
     title: 'PyTorch',
-    competency: 3,
+    competency: 4,
     category: ['ML Engineering', 'Python'],
   },
   {
     title: 'Jupyter',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
@@ -76,12 +91,12 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
@@ -91,7 +106,7 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Javascript'],
   },
   {
@@ -101,7 +116,7 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 4,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
